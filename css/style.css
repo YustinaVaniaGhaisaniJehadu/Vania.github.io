@@ -3,6 +3,7 @@
 	margin: 0;
 	font-family: 'Josefin Sans', sans-serif;
 	box-sizing: border-box;
+	background-color: black
 }
 .hero{
 	height: 100vh;
@@ -107,7 +108,7 @@ h4{
 .about{
 	width: 100%;
 	padding: 100px 0px;
-	background: #0a16c4b4;
+	background: grey;
 	background-color:;
 }
 .about img{
