@@ -109,8 +109,8 @@ h4{
 .about{
 	width: 100%;
 	padding: 100px 0px;
-	background:black;
-	background-color:black;
+	background:grey;
+	background-color:;
 }
 .about img{
 	height: auto;
@@ -221,7 +221,7 @@ footer{
 	position: relative;
 	width: 100%;
 	height: 400px;
-	background: #0a16c4b4;
+	background:black;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
